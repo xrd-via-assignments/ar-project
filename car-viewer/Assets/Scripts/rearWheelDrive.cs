@@ -8,6 +8,7 @@ public class rearWheelDrive : MonoBehaviour
     public float maxTorque = 300;
 
     public WheelCollider[] wheelColliderArray;
+    public Transform[] wheelMeshArray;
 
     // Start is called before the first frame update
     void Start()
@@ -28,12 +29,12 @@ public class rearWheelDrive : MonoBehaviour
         wheelColliderArray[3].motorTorque = torque;
 
         // Assign the each position and rotation of the wheel collider to the wheel transform 
-        foreach(WheelCollider wheel in wheelColliderArray)
+        foreach (WheelCollider wheel in wheelColliderArray)
         {
             // Get the position and rotation of the wheel collider
             Vector3 wheelPosition;
             Quaternion wheelRotation;
-            
+
             wheel.GetWorldPose(out wheelPosition, out wheelRotation);
 
             // Get the reference of each wheel model
