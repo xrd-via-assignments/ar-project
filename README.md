@@ -16,4 +16,4 @@ Visit the [link](https://youtu.be/-bYdGvFxqwQ) to view the live demo.
 ![ar_Image_3](https://i.postimg.cc/Dfx3Y1GL/Screenshot-20231026-151416-car-viewer-1.jpg)
 
 ### Resources
-[link](https://www.linkedin.com/learning/arkit-and-unity-build-a-drivable-car-in-augmented-reality)
+https://www.linkedin.com/learning/arkit-and-unity-build-a-drivable-car-in-augmented-reality
