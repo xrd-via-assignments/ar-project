@@ -16,4 +16,7 @@ Visit the [link](https://youtu.be/-bYdGvFxqwQ) to view the live demo.
 ![ar_Image_3](https://i.postimg.cc/Dfx3Y1GL/Screenshot-20231026-151416-car-viewer-1.jpg)
 
 ### Resources
-https://www.linkedin.com/learning/arkit-and-unity-build-a-drivable-car-in-augmented-reality
+Car model resource and car movement [link](https://www.linkedin.com/learning/arkit-and-unity-build-a-drivable-car-in-augmented-reality)
+
+### Assets used
+Joystick [link](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
